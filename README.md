@@ -1,6 +1,6 @@
 # Prime-Numbers
-Euclidean test to generate prime numbers
-Uses Python
+Euclidean test to generate prime numbers Uses Python
+
 We maintain 2 lists: 
 	A list of primes so far from 1,2,3,5,7,11 etc and;
 	A list of prime numbers squared, 1,4,9,25 etc.
